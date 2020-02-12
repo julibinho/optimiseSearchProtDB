@@ -1,1 +1,2 @@
 
+#Download and install Psi-blast at ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
